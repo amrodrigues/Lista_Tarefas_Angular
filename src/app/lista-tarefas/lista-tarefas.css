@@ -1,0 +1,71 @@
+.container {
+  max-width: 480px;
+  margin: 40px auto;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+  font-size: 22px;
+  margin-bottom: 16px;
+}
+
+.form-nova-tarefa {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 20px;
+}
+
+.form-nova-tarefa input {
+  flex: 1;
+  padding: 8px;
+  border: 1px solid #bbb;
+  border-radius: 4px;
+}
+
+.form-nova-tarefa button {
+  padding: 8px 14px;
+  border: none;
+  border-radius: 4px;
+  background: #1976d2;
+  color: #fff;
+  cursor: pointer;
+}
+
+.lista {
+  list-style: none;
+  padding: 0;
+}
+
+.lista li {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 8px 0;
+  border-bottom: 1px solid #eee;
+}
+
+.lista li span {
+  flex: 1;
+}
+
+.concluida {
+  text-decoration: line-through;
+  color: #888;
+}
+
+.remover {
+  border: none;
+  background: transparent;
+  color: #c62828;
+  cursor: pointer;
+}
+
+.contador {
+  margin-top: 20px;
+  font-size: 15px;
+}
+
+.vazio {
+  color: #777;
+  font-style: italic;
+}
