@@ -1,3 +1,4 @@
+
 # Lista de Tarefas
 
 Aplicação web desenvolvida com Angular para gerenciar tarefas do dia a dia de forma simples e prática. A interface permite adicionar novas tarefas, marcar itens como concluídos, remover itens da lista e acompanhar quantas tarefas já foram finalizadas.
@@ -7,6 +8,8 @@ Aplicação web desenvolvida com Angular para gerenciar tarefas do dia a dia de 
 Este projeto é uma aplicação frontend em Angular para controle de tarefas pessoais. Ele foi criado para demonstrar o uso de componentes, data binding, formulários e manipulação de listas em Angular.
 
 A aplicação já inicia com algumas tarefas de exemplo e oferece uma interface simples para organização diária.
+
+<img width="1365" height="573" alt="Lista de tarefas" src="https://github.com/user-attachments/assets/cee702b5-a21d-40f2-b10a-1a440af3b35b" />
 
 ## Funcionalidades
 
